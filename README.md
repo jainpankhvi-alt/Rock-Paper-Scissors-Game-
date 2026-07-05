@@ -1,28 +1,66 @@
-# Rock Paper Scissors Game 🎮
+# 🎮 Rock Paper Scissors Game
 
-A simple command-line Rock, Paper, Scissors game built using Python.
+## 📖 Description
 
-## Features
-- Play 3 rounds against the computer.
-- Random computer choice using the `random` module.
-- Score tracking.
-- Displays the winner after each round.
-- Announces the final winner.
+This is a simple command-line Rock Paper Scissors game built using Python. The user plays against the computer for three rounds, while the computer generates its choice randomly. The game keeps track of scores after each round and declares the final winner.
 
-## Concepts Used
-- Functions
-- Loops
-- Conditional Statements
-- Lists
-- User Input
-- Random Module
-- OS Module (`os.system("cls")`)
+---
 
-## How to Run
+## ✨ Features
+
+* User vs Computer gameplay
+* Random computer choice using the `random` module
+* Three-round game
+* Live score tracking
+* Final winner announcement
+* Clean and interactive terminal output
+
+---
+
+## 🛠️ Technologies Used
+
+* Python
+* Functions
+* Loops
+* Conditional Statements
+* Lists
+* `random` Module
+* `os` Module
+
+---
+
+## ▶️ How to Run
 
 ```bash
 python rock_paper_scissors.py
+```
 
-## output
-<img width="593" height="510" alt="image" src="https://github.com/user-attachments/assets/e0c16064-c712-4875-aa2e-72502e617aa0" />
+---
+
+## 📸 Game Output
+
+> Paste your game output screenshot here.
+
+Example:
+
+<img width="589" height="475" alt="image" src="https://github.com/user-attachments/assets/4dc7c7e3-c1e6-4e45-83a5-59d38b2a8738" />
+
+
+---
+
+## 📚 Concepts Practiced
+
+* Function Creation
+* User Input Handling
+* Decision Making (`if-elif-else`)
+* Score Tracking
+* Random Number Generation
+* Console Screen Clearing
+
+---
+
+## 👩‍💻 Author
+
+**Pankhvi Jain**
+
 
