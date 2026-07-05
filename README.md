@@ -22,3 +22,7 @@ A simple command-line Rock, Paper, Scissors game built using Python.
 
 ```bash
 python rock_paper_scissors.py
+
+## output
+<img width="593" height="510" alt="image" src="https://github.com/user-attachments/assets/e0c16064-c712-4875-aa2e-72502e617aa0" />
+
